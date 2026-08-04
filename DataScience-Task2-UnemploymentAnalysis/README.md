@@ -6,9 +6,11 @@ and temporal trends, with a focus on the impact of the COVID-19 pandemic
 on unemployment rates in India.
 
 ## Dataset
-"Unemployment in India" — sourced from Kaggle. Contains monthly unemployment
-rate, estimated employed, and labour participation rate by state, spanning
-2019–2020 (pre-COVID and COVID-era).
+Source: [Unemployment in India — Kaggle](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
+
+Contains monthly unemployment rate, estimated employed, and labour
+participation rate by state, spanning 2019–2020 (pre-COVID and COVID-era).
+The raw CSV is included in this folder as `Unemployment_in_India.csv`.
 
 ## Tech Stack
 Python, pandas, matplotlib, seaborn, Jupyter Notebook (Google Colab)
